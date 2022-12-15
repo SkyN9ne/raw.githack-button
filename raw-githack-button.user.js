@@ -1,16 +1,4 @@
-// ==UserScript==
-// @name Github raw.githack.com Button
-// @version 0.1.1
-// @description A userscript to add raw.githack.com button on Github.
-// @homepageURL https://github.com/eight04/raw-githack-button#readme
-// @supportURL https://github.com/eight04/raw-githack-button/issues
-// @license MIT
-// @author eight <eight04@gmail.com> (https://github.com/eight04)
-// @namespace https://github.com/eight04
-// @include https://github.com/*
-// @include https://gist.github.com/*
-// @grant none
-// ==/UserScript==
+// @homepageURL https://github.com/eight04/raw-githack-button
 
 (() => {
   const container =
